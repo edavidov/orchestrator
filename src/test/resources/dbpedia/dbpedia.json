@@ -1,0 +1,114 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "label",
+      "comment",
+      "foundingYear",
+      "revenue",
+      "products",
+      "slogan",
+      "industries",
+      "ceos",
+      "locationNames",
+      "numberOfEmployees",
+      "companyFullName",
+      "companyWebLink",
+      "netIncome",
+      "operatingIncome",
+      "assets",
+      "equity",
+      "foundingDate",
+      "subsidiaries",
+      "areaServed",
+      "dbpProducts"
+    ]
+  },
+  "results": {
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "xml:lang": "pl",
+          "value": "Sanofi"
+        },
+        "comment": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Sanofi S.A. is a French multinational pharmaceutical company headquartered in Gentilly, France, as of 2013 the world's fifth-largest by prescription sales. The company was formed as Sanofi-Aventis in 2004 by the merger of Aventis and Sanofi-Synth\u00E9labo, which were each the product of several previous mergers. It changed its name to Sanofi in May 2011. The company is a component of the Euro Stoxx 50 stock market index."
+        },
+        "foundingYear": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "value": "2011"
+        },
+        "revenue": {
+          "type": "typed-literal",
+          "datatype": "http://dbpedia.org/datatype/euro",
+          "value": "3.705E10"
+        },
+        "products": {
+          "type": "literal",
+          "value": "Cardiovascular disease,Central nervous system,Diabetes,Internal medicine,Oncology,Over-the-counter drug,Prescription drug,Vaccine"
+        },
+        "industries": {
+          "type": "literal",
+          "value": "Pharmaceutical industry"
+        },
+        "ceos": {
+          "type": "literal",
+          "value": "Dr. Olivier Brandicourt,Olivier Brandicourt,Serge Weinberg"
+        },
+        "locationNames": {
+          "type": "literal",
+          "value": "France,Gentilly, Val-de-Marne"
+        },
+        "numberOfEmployees": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+          "value": "112128"
+        },
+        "companyFullName": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Sanofi S.A."
+        },
+        "companyWebLink": {
+          "type": "uri",
+          "value": "http://www.sanofi.com/"
+        },
+        "netIncome": {
+          "type": "typed-literal",
+          "datatype": "http://dbpedia.org/datatype/euro",
+          "value": "4.39E9"
+        },
+        "operatingIncome": {
+          "type": "typed-literal",
+          "datatype": "http://dbpedia.org/datatype/euro",
+          "value": "6.14E9"
+        },
+        "assets": {
+          "type": "typed-literal",
+          "datatype": "http://dbpedia.org/datatype/euro",
+          "value": "9.607E10"
+        },
+        "equity": {
+          "type": "typed-literal",
+          "datatype": "http://dbpedia.org/datatype/euro",
+          "value": "5.689E10"
+        },
+        "foundingDate": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-08-20"
+        },
+        "subsidiaries": {
+          "type": "literal",
+          "value": "http://dbpedia.org/resource/Chattem,http://dbpedia.org/resource/Genzyme,http://dbpedia.org/resource/Medley_Farma,http://dbpedia.org/resource/Merial,http://dbpedia.org/resource/Sanofi_Pasteur,http://dbpedia.org/resource/Shantha_Biotechnics,http://dbpedia.org/resource/Zentiva"
+        }
+      }
+    ]
+  }
+}

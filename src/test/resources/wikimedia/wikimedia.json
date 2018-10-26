@@ -1,0 +1,55 @@
+{
+  "type": "standard",
+  "title": "Google",
+  "displaytitle": "Google",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "titles": {
+    "canonical": "Google",
+    "normalized": "Google",
+    "display": "Google"
+  },
+  "pageid": 1092923,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Googleplex-Patio-Aug-2014.JPG/320px-Googleplex-Patio-Aug-2014.JPG",
+    "width": 320,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Googleplex-Patio-Aug-2014.JPG",
+    "width": 3264,
+    "height": 2448
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "863344074",
+  "tid": "8390bc03-cfd4-11e8-8b6e-4b38d46e60bb",
+  "timestamp": "2018-10-10T05:44:35Z",
+  "description": "American multinational Internet and technology corporation",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Google",
+      "revisions": "https://en.wikipedia.org/wiki/Google?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Google?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Google"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Google",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Google",
+      "edit": "https://en.m.wikipedia.org/wiki/Google?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Google"
+    }
+  },
+  "api_urls": {
+    "summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Google",
+    "metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Google",
+    "references": "https://en.wikipedia.org/api/rest_v1/page/references/Google",
+    "media": "https://en.wikipedia.org/api/rest_v1/page/media/Google",
+    "edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Google",
+    "talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Google"
+  },
+  "extract": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14 percent of its shares and control 56 percent of the stockholder voting power through supervoting stock. They incorporated Google as a privately held company on September 4, 1998. An initial public offering (IPO) took place on August 19, 2004, and Google moved to its headquarters in Mountain View, California, nicknamed the Googleplex. In August 2015, Google announced plans to reorganize its various interests as a conglomerate called Alphabet Inc. Google is Alphabet's leading subsidiary and will continue to be the umbrella company for Alphabet's Internet interests. Sundar Pichai was appointed CEO of Google, replacing Larry Page who became the CEO of Alphabet.",
+  "extract_html": "<p><b>Google LLC</b> is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14 percent of its shares and control 56 percent of the stockholder voting power through supervoting stock. They incorporated Google as a privately held company on September 4, 1998. An initial public offering (IPO) took place on August 19, 2004, and Google moved to its headquarters in Mountain View, California, nicknamed the Googleplex. In August 2015, Google announced plans to reorganize its various interests as a conglomerate called Alphabet Inc. Google is Alphabet's leading subsidiary and will continue to be the umbrella company for Alphabet's Internet interests. Sundar Pichai was appointed CEO of Google, replacing Larry Page who became the CEO of Alphabet.</p>"
+}

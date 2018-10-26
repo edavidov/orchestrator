@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "success": 1,
+    "status": 200,
+    "status_string": "Success",
+    "total_results": "1",
+    "results_complete": 1,
+    "api_version": "0.04 (2018-09-15)",
+    "parameters": {
+      "limit": 100,
+      "index": 0,
+      "year": "most_recent"
+    }
+  },
+  "result": {
+    "companies": {
+      "cw_1572": {
+        "cw_id": "cw_1572",
+        "cik": "86144",
+        "company_name": "SAFEWAY INC",
+        "irs_number": "943019135",
+        "sic_code": "5411",
+        "industry_name": "Retail-grocery stores",
+        "sic_sector": "5400",
+        "sector_name": "Food stores",
+        "source_type": "filers",
+        "raw_address": "5918 STONERIDGE MALL RD, PLEASANTON CA 94588",
+        "country_code": "US",
+        "subdiv_code": "CA",
+        "top_parent_id": "cw_1572",
+        "num_parents": "0",
+        "num_children": "0",
+        "max_year": "2017",
+        "min_year": "2003"
+      }
+    }
+  }
+}
